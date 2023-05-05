@@ -6,6 +6,14 @@ It is my first mobile application project and it functions as a very simple e-co
 
 Directions on how to use:
 
+First things first, download the zip file and unzip it.
+
+This is the directory path to the apk file: C:\Users\ogida\OneDrive\Desktop\SecondSemCourses\2430-MobileApps\dandy-crochet\mobile\platforms\android\app\build\outputs\apk\debug\app-debug.apk
+
+Before running it, run in the project terminal: npm install to install the node_modules.
+
+Follow the rest once the app is able to run.
+
 When the home page appears, click on any of the product pictures to take you to the product detail page. 
 
 Select the size and quantity desired then click the Add to Cart button which redirects you to the Cart page.
